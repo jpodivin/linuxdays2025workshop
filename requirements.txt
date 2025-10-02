@@ -1,0 +1,9 @@
+pandas
+datasets
+openai
+pydantic
+transformers
+trl
+huggingface_hub
+peft
+tqdm

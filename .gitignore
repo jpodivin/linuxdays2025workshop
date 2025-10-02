@@ -1,0 +1,3 @@
+*.parquet
+*API_KEY
+sft_output/*
